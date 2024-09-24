@@ -1,7 +1,7 @@
 {
   "name": "swaggyP36000 IPA Library",
   "identifier": "xyz.hieuddo.ipalibrary",
-  "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
+  "sourceURL": "https://raw.githubusercontent.com/TrisecTroop/TrollStore-IPAS-Rehosted/refs/heads/main/apps.json",
   "apps": [
     {
       "name": "DLTikTok",
